@@ -1,0 +1,15 @@
+Num,Name,Origin,Resistence,Orientation,Growth_Rate,Green-H,Red-H,Copy_Number,Copy_Number_STD,State
+#1,pHN52.12,colE1,NeoR,NeoR<-/ori->,1.022,206.2,7.7,35.8379,4.8819,Green
+#3,pHK41.12,pUC,KanR,KanR->/ori->,1.032,322.7,8,76.0768,7.8915,Green
+#4,pHK42.12,pUC,KanR,KanR<-/ori->,1.04,363.6,8.3,109.1326,29.1025,Green
+#5,pHK53.12,colE1,KanR,KanR<-/ori->,1.078,232.1,8.5,39.0448,11.2033,Green
+#6,pHK54.12,colE1*,KanR,KanR->/ori->,1.113,51.1,7.6,13.2204,1.8583,Green
+#7,pHN51.12,colE1,NeoR,ori<-/NeoR<-,1.035,275.3,7.8,60.4965,8.6552,Green
+#9,pHN45.12,pUC,NeoR,ori<-/NeoR<-,0.966,531.3,7.7,101.7619,2.7324,Green
+#1,pHN52.12,colE1,NeoR,NeoR<-/ori->,1.053,6.4,49,35.3424,2.0659,Red
+#3,pHK41.12,pUC,KanR,KanR->/ori->,0.784,7.3,168.8,120.1241,6.7822,Red
+#4,pHK42.12,pUC,KanR,KanR<-/ori->,0.83,7.7,205,163.4522,17.1626,Red
+#5,pHK53.12,colE1,KanR,KanR<-/ori->,1.015,6.7,86.7,111.1754,15.3776,Red
+#6,pHK54.12,colE1*,KanR,KanR->/ori->,1.117,6.3,19.3,13.3998,0.7441,Red
+#7,pHN51.12,colE1,NeoR,ori<-/NeoR<-,1.007,6.3,81.4,75.4297,7.9291,Red
+#9,pHN45.12,pUC,NeoR,ori<-/NeoR<-,1.039,6.3,42.3,44.924,9.6699,Red
